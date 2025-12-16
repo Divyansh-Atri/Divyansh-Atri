@@ -48,9 +48,6 @@ Clean static websites and UI experiments to understand frontend structure and de
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-Atri&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Atri&layout=compact&theme=tokyonight" />
