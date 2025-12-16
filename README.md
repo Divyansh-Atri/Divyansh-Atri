@@ -81,7 +81,7 @@ OS course project extending the xv6 operating system with custom system calls, s
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-Atri&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
@@ -90,7 +90,7 @@ OS course project extending the xv6 operating system with custom system calls, s
 
 ---
 
-## 📫 Get In Touch
+##  Get In Touch
 
 I'm always interested in discussing algorithms, optimization, quantum computing, or collaborating on interesting projects!
 
