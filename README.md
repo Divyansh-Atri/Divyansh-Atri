@@ -22,20 +22,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,linux,git,react" />
 </p>
 
----
-
-## Featured Projects
-
-### Shor’s Algorithm (Python)
-Implementation and exploration of Shor’s algorithm with a focus on the underlying number theory and algorithmic flow.
-
-### Rare Event Monte Carlo
-Simulation-based project studying rare-event probability estimation using Monte Carlo techniques.
-
-### Static and Personal Websites
-Clean static websites and UI experiments to understand frontend structure and design fundamentals.
-
----
 
 ## What I Care About
 
