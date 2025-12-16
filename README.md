@@ -4,13 +4,13 @@
 
 > *I like problems where math meets engineering: algorithms, optimization, databases, and systems design.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/divyansh-atri)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/Divyansh-Atri)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:divyansh.atri@research.iiit.ac.in)
 
 ---
 
-## 🎓 About Me
+## About Me
 
 I'm a Computer Science student at IIIT Hyderabad with a strong interest in:
 
@@ -24,7 +24,7 @@ Currently working on research projects in optimization theory and quantum comput
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages:** Python • C++ • C • JavaScript • TypeScript • SQL • Assembly
 
