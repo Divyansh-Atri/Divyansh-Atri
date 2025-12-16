@@ -1,112 +1,105 @@
-<div align="center">
-  
-  <h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=35C5F0&center=true&vCenter=true&width=435&lines=I'm+a+CS+Student+Exploring+Tech;Passionate+about+Coding+%26+Systems;Building+Cool+Projects" alt="Typing SVG" />
-  </a>
+# Hi there! 👋 I'm Divyansh Atri
 
-  <br/>
+**Computer Science Student @ IIIT Hyderabad**
 
-  <h3>🌐 Connect With Me</h3>
-  <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/YOUR_INSTAGRAM">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-</div>
+> *I like problems where math meets engineering: algorithms, optimization, databases, and systems design.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/Divyansh-Atri)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:your-email@example.com)
 
 ---
 
-### 🚀 **About me**
+## 🎓 About Me
 
-**👨‍💻 Tech Enthusiast**
-I have a strong interest in software development and solving real-world problems. I am currently exploring new technologies and building projects to enhance my skills.
+I'm a Computer Science student at IIIT Hyderabad with a strong interest in:
 
-**⚛️ Deep Dive**
-I am working on deepening my understanding of data structures, algorithms, and system design. I enjoy optimizing code and learning how things work under the hood.
+- **Algorithms & Optimization** - Exploring stochastic methods and high-dimensional landscapes
+- **Quantum Computing** - Implementing quantum algorithms using Qiskit
+- **Systems Programming** - Building OS components and shells from scratch
+- **Full-Stack Development** - Creating modern web applications with Next.js and TypeScript
+- **Database Design** - Working with relational and NoSQL databases
 
-**🛠️ Full-Stack Development**
-I work as a developer with a focus on building scalable web applications. My experience spans a range of technologies, allowing me to contribute to both frontend and backend aspects.
-
----
-
-### 📂 **My Main Projects**
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🐍 Project 1 Name</h3>
-      <p align="center">A brief description of your first project. Mention the problem it solves and the tech used.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-      </p>
-      <p align="center"><a href="LINK_TO_REPO">View Project</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 Project 2 Name</h3>
-      <p align="center">Description of your second project. Maybe a web app or a tool you built.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-      </p>
-      <p align="center"><a href="LINK_TO_REPO">View Project</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💾 Project 3 Name</h3>
-      <p align="center">Description of a database or systems project.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-      </p>
-      <p align="center"><a href="LINK_TO_REPO">View Project</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 Project 4 Name</h3>
-      <p align="center">Description of a mobile app or script.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </p>
-      <p align="center"><a href="LINK_TO_REPO">View Project</a></p>
-    </td>
-  </tr>
-</table>
+Currently working on research projects in optimization theory and quantum computing, while also building production-ready web applications.
 
 ---
 
-### 🛠️ **Tech Stack**
+## 💻 Tech Stack
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+**Languages:** Python • C++ • C • JavaScript • TypeScript • SQL • Assembly
 
-<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+**Web Development:** React • Next.js • Node.js • Express.js • Tailwind CSS • Prisma
+
+**Scientific Computing:** NumPy • Pandas • Matplotlib • Jupyter • Qiskit
+
+**Tools & Databases:** Git • Docker • PostgreSQL • MongoDB • LaTeX • Vercel
 
 ---
 
-### 📊 **GitHub Stats**
+##  Featured Projects
 
-<div align="center">
+###  [Stochastic Optimization in High-Dimensional Landscapes](https://github.com/Divyansh-Atri/Stochastic-Optimization-Landscape)
+Research project implementing optimization algorithms (Gradient Descent, Adam, SGD) from scratch in Python. Includes comprehensive mathematical analysis and experimental validation on convex and non-convex landscapes.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Atri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+**Tech:** Python, NumPy, Matplotlib, Jupyter Notebooks
 
-<br/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Divyansh-Atri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
+###  [Quantum Algorithms](https://github.com/Divyansh-Atri/Quantum--Algorithm)
+Implementation of fundamental quantum algorithms including Grover's Algorithm, Shor's Algorithm, Deutsch-Jozsa, Quantum Random Walk, and Quantum Key Distribution. Complete with circuit diagrams and performance analysis.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyansh-Atri&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+**Tech:** Python, Qiskit, Jupyter Notebooks
 
-</div>
+---
+
+###  [Forms - Modern Form Builder](https://github.com/Divyansh-Atri/forms)
+Full-stack application for creating and managing forms with drag-and-drop interface, real-time response tracking, and analytics dashboard. Features authentication and persistent storage.
+
+**Tech:** Next.js, TypeScript, Prisma, PostgreSQL  
+**Live:** [sanjeevatri.vercel.app](https://sanjeevatri.vercel.app)
+
+---
+
+###  [C-Shell](https://github.com/Divyansh-Atri/C-Shell)
+Custom Unix shell implementation in C with support for I/O redirection, piping, process management, signal handling, and job control. Built to understand operating system internals.
+
+**Tech:** C, Linux System Calls
+
+---
+
+###  [Rare Event Monte Carlo](https://github.com/Divyansh-Atri/Rare-Event-Monte-Carlo)
+Statistical computing project implementing Monte Carlo methods for rare event simulation using variance reduction techniques and importance sampling.
+
+**Tech:** Python, NumPy, Statistical Analysis
+
+---
+
+###  [XV-6 Operating System](https://github.com/Divyansh-Atri/XV-6)
+OS course project extending the xv6 operating system with custom system calls, scheduling algorithms, and memory management features.
+
+**Tech:** C, Assembly (RISC-V)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-Atri&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Atri&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 📫 Get In Touch
+
+I'm always interested in discussing algorithms, optimization, quantum computing, or collaborating on interesting projects!
+
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/divyansh-atri)
+- **Email:** [@Divyansh-Atri](mailto:divyansh.atri@research.iiit.ac.in)
+- **GitHub:** [@Divyansh-Atri](https://github.com/Divyansh-Atri)
+
+---
+
+<p align="center">
+  <sub>Last updated: December 2025</sub>
+</p>
