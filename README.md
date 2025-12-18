@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Divyansh-Atri&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 # Hi there! 👋 I'm Divyansh Atri
 
 **Computer Science Student @ IIIT Hyderabad**
