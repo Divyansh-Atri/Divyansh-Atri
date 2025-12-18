@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Divyansh Atri
+<h1 align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=40&duration=3750&pause=800&color=9E449E&center=true&vCenter=true&repeat=true&random=false&width=490&height=70&lines=Hi+there!;I'm+Divyansh+Atri" alt="Typing SVG" /></a>
+
 
 **Computer Science Student @ IIIT Hyderabad**
 
