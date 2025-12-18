@@ -38,6 +38,12 @@ Currently working on research projects in optimization theory and quantum comput
 
 ##  Featured Projects
 
+###  [Numerical Methods for Stochastic Differential Equations](https://https://github.com/Divyansh-Atri/Numerical-SDE-Methods)
+This project provides from-scratch implementations of major numerical methods for SDEs and conducts controlled computational experiments to validate their theoretical properties. All implementations are manual—no black-box SDE solvers are used.
+
+**Tech:** Python, NumPy, Matplotlib, Jupyter Notebooks,Seaborn
+
+---
 ###  [Stochastic Optimization in High-Dimensional Landscapes](https://github.com/Divyansh-Atri/Stochastic-Optimization-Landscape)
 Research project implementing optimization algorithms (Gradient Descent, Adam, SGD) from scratch in Python. Includes comprehensive mathematical analysis and experimental validation on convex and non-convex landscapes.
 
