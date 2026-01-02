@@ -1,23 +1,24 @@
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img 
+    <img
       src="https://readme-typing-svg.demolab.com?
       font=Cascadia+Code
       &weight=600
       &size=28
-      &duration=3750
-      &pause=800
+      &duration=3000
+      &pause=1000
       &color=9E449E
       &center=true
       &vCenter=true
       &repeat=true
-      &width=360
+      &width=420
       &height=45
-      &lines=Hi+there!;I'm+Divyansh+Atri"
+      &lines=Hi+there!+I'm+Divyansh+Atri"
       alt="Typing SVG"
     />
   </a>
 </h2>
+
 
 <p align="center"><b>Computer Science Student @ IIIT Hyderabad</b></p>
 
