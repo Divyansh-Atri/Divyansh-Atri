@@ -1,10 +1,29 @@
-<h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=40&duration=3750&pause=800&color=9E449E&center=true&vCenter=true&repeat=true&random=false&width=490&height=70&lines=Hi+there!;I'm+Divyansh+Atri" alt="Typing SVG" /></a>
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?
+      font=Cascadia+Code
+      &weight=600
+      &size=28
+      &duration=3750
+      &pause=800
+      &color=9E449E
+      &center=true
+      &vCenter=true
+      &repeat=true
+      &width=360
+      &height=45
+      &lines=Hi+there!;I'm+Divyansh+Atri"
+      alt="Typing SVG"
+    />
+  </a>
+</h2>
 
+<p align="center"><b>Computer Science Student @ IIIT Hyderabad</b></p>
 
-**Computer Science Student @ IIIT Hyderabad**
-
-> *I like problems where math meets engineering: algorithms, optimization, databases, and systems design.*
+<p align="center">
+  <i>I like problems where math meets engineering: algorithms, optimization, databases, and systems design.</i>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/divyansh-atri)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/Divyansh-Atri)
