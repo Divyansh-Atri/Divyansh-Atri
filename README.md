@@ -10,7 +10,7 @@
       &color=9E449E
       &center=true
       &vCenter=true
-      &repeat=true
+      &repeat=false
       &width=420
       &height=45
       &lines=Hi+there!+I'm+Divyansh+Atri"
