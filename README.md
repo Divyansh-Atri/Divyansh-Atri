@@ -7,10 +7,6 @@
   <i>I like problems where math meets engineering: algorithms, optimization, databases, and systems design.</i>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/divyansh-atri)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/Divyansh-Atri)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:divyansh.atri@research.iiit.ac.in)
-
 ---
 
 ## About Me
@@ -40,6 +36,12 @@ Currently working on research projects in optimization theory and quantum comput
 ---
 
 ##  Featured Projects
+
+###  [Metastability-Exit-Times](https://github.com/Divyansh-Atri/metastability-exit-times)
+This project provides a rigorous, research-level implementation of numerical methods for studying metastability and rare transitions in stochastic dynamical systems.he focus is on overdamped Langevin dynamics.
+
+###  [stochastic-control-hjb](https://github.com/Divyansh-Atri/stochastic-control-hjb)
+Numerical study of stochastic control problems via Hamilton–Jacobi–Bellman equations and dynamic programming. 
 
 ###  [Numerical Methods for Stochastic Differential Equations](https://https://github.com/Divyansh-Atri/Numerical-SDE-Methods)
 This project provides from-scratch implementations of major numerical methods for SDEs and conducts controlled computational experiments to validate their theoretical properties. All implementations are manual—no black-box SDE solvers are used.
@@ -102,9 +104,9 @@ OS course project extending the xv6 operating system with custom system calls, s
 
 I'm always interested in discussing algorithms, optimization, quantum computing, or collaborating on interesting projects!
 
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/divyansh-atri)
-- **Email:** [@Divyansh-Atri](mailto:divyansh.atri@research.iiit.ac.in)
-- **GitHub:** [@Divyansh-Atri](https://github.com/Divyansh-Atri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/divyansh-atri)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/Divyansh-Atri)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:divyansh.atri@research.iiit.ac.in)
 
 ---
 
